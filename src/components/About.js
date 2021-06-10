@@ -4,7 +4,7 @@ import { Mainheading } from './Mainheading';
 export default function About() {
     return (
         <React.Fragment>
-            <Mainheading text="About Us" />
+            <Mainheading text="ABOUT US" />
         </React.Fragment>
     )
 }

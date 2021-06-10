@@ -29,7 +29,7 @@ export default function Products() {
 
     return (
         <React.Fragment>
-            <Mainheading text="Products" />
+            <Mainheading text="PRODUCTS" />
             <br />
             <div className={classes.root}>
                 <Grid container spacing={3}>
@@ -40,8 +40,8 @@ export default function Products() {
                                 <Paper className={classes.paper}>
                                     <Link to={`/products/${value}`} style={{ textDecoration: 'none', fontFamily: 'Serif' }}>
                                         <img src={product.img} alt="Shoes" style={{ width: '90%' }} />
-                                        <h3 style={{ color: 'black' }}>{product.name}</h3>
-                                        <h4 style={{ color: 'black' }}>{product.price}</h4>
+                                        <h3 style={{ color: 'black',fontFamily: 'Serif' }}>{product.name}</h3>
+                                        <h4 style={{ color: 'black',fontFamily: 'Serif' }}>{product.price}</h4>
                                     </Link>
                                 </Paper>
                             </Grid>

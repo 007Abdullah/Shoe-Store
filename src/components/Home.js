@@ -13,7 +13,7 @@ export default function Home() {
     const classes = useStyles();
     return (
         <React.Fragment>
-            <Mainheading text="Shoe Store" />
+            <Mainheading text="SHOE STORE" />
             <div className={classes.imgs}>
                 <img src="https://cms-cdn.thesolesupplier.co.uk/2019/01/Nike-Adapt-BB-Black-White-AO2582-001.png" alt="Shoe Store" />
             </div>
