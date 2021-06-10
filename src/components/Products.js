@@ -41,6 +41,7 @@ export default function Products() {
                                     <Link to={`/products/${value}`} style={{ textDecoration: 'none', fontFamily: 'Serif' }}>
                                         <img src={product.img} alt="Shoes" style={{ width: '90%' }} />
                                         <h3 style={{ color: 'black' }}>{product.name}</h3>
+                                        <h4 style={{ color: 'black' }}>{product.price}</h4>
                                     </Link>
                                 </Paper>
                             </Grid>

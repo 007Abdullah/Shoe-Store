@@ -1,22 +1,28 @@
 {
     "air-golf-shoe": {
         "name": "Air-Zoom-Alphafly",
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c43f926d-bb0f-440f-b863-3118eb4c0142/air-zoom-alphafly-next-mens-racing-shoe-2FN3N2.png"
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c43f926d-bb0f-440f-b863-3118eb4c0142/air-zoom-alphafly-next-mens-racing-shoe-2FN3N2.png",
+        "price": "$250"
     },
     "mens-racing-shoe": {
         "name": "Waffle-One-Little-Kids",
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d371d89-63ff-4179-9947-2b1cd31141e0/waffle-one-little-kids-shoe-V6MCqK.png"
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d371d89-63ff-4179-9947-2b1cd31141e0/waffle-one-little-kids-shoe-V6MCqK.png",
+        "price": "$500"
+
     },
     "presto-little-kids-shoe": {
         "name": "Air-Zoom-Victory-Black",
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/40e51ba8-a092-4393-a736-c7d0d875e966/air-zoom-victory-tour-2-golf-shoe-wide-2FGG2s.png"
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/40e51ba8-a092-4393-a736-c7d0d875e966/air-zoom-victory-tour-2-golf-shoe-wide-2FGG2s.png",
+        "price": "$750"
     },
     "sneakers-shoe-png": {
         "name": "Air-Zoom-Victory",
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/38b98701-59f4-4902-859c-33ee8be12da6/air-zoom-victory-tour-2-golf-shoe-wide-2FGG2s.png"
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/38b98701-59f4-4902-859c-33ee8be12da6/air-zoom-victory-tour-2-golf-shoe-wide-2FGG2s.png",
+        "price": "$1000"
     },
     "waffle-one-little-kids-shoe": {
         "name": "Presto-Little-Kids",
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f7330e7d-3aba-4e74-acd8-bd5ad5ca4da1/presto-little-kids-shoe-wH6TCn.png"
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f7330e7d-3aba-4e74-acd8-bd5ad5ca4da1/presto-little-kids-shoe-wH6TCn.png",
+        "price": "$1500"
     }
 }
