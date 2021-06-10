@@ -1,6 +1,6 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-
+import { Footer } from './Footer';
 
 const useStyles = makeStyles((theme) => ({
     heading: {
@@ -25,6 +25,12 @@ export default function Home() {
             <div className={classes.imgs}>
                 <img src="https://cms-cdn.thesolesupplier.co.uk/2019/01/Nike-Adapt-BB-Black-White-AO2582-001.png" alt="Shoe Store" />
             </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <Footer />
         </React.Fragment>
     )
 }
