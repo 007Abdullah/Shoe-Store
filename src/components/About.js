@@ -1,10 +1,10 @@
 import React from 'react';
-
+import { Mainheading } from './Mainheading';
 
 export default function About() {
     return (
         <React.Fragment>
-            <h1>About Us</h1>
+            <Mainheading text="About Us" />
         </React.Fragment>
     )
 }

@@ -9,7 +9,7 @@ const useStyles = makeStyles((theme) => ({
         flexGrow: 1,
     },
     nav: {
-        backgroundColor: 'black'
+        backgroundColor: 'black',
     },
     align: {
         width: '50%',
@@ -20,6 +20,7 @@ const useStyles = makeStyles((theme) => ({
     },
     link: {
         color: 'white',
+        fontFamily: 'Serif',
         textDecoration: 'none'
     }
 }));
